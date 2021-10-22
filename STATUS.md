@@ -3,6 +3,7 @@
 tnc Notes
 ----
 Testing commit changes. Added Jenkins Github Integration plugin.
+Added GH PAT to Jenkins
 
 tnc Build Status
 ----
