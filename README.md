@@ -62,7 +62,7 @@ The voting application only accepts one vote per client. It does not register vo
 
 tnc Notes
 ----
-Testing commit changes
+Testing commit changes. Added Jenkins Github Integration plugin.
 
 tnc Build Status
 ----
