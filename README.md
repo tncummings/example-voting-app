@@ -66,4 +66,4 @@ Testing commit changes
 
 tnc Build Status
 ----
-[![Build Status](http://34.121.151.52:8080/job/instavote/job/result-build/badge/icon)](http://34.121.151.52:8080/job/instavote/job/result-build/)
+<a href='http://34.121.151.52:8080/job/instavote/job/result-build/'><img src='http://34.121.151.52:8080/buildStatus/icon?job=instavote%2Fresult-build'></a>
