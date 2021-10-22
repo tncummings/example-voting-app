@@ -63,3 +63,7 @@ The voting application only accepts one vote per client. It does not register vo
 tnc Notes
 ----
 Testing commit changes
+
+tnc Build Status
+----
+[![Build Status](http://34.121.151.52:8080/job/instavote/job/result-build/badge/icon)](http://34.121.151.52:8080/job/instavote/job/result-build/)
