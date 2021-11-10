@@ -7,6 +7,6 @@ result:
   image: initicron/result:latest
     ports:
         - 5001:4000
-        worker:
 
-image: initcron/worker:latest
+worker:
+  image: initcron/worker:latest
